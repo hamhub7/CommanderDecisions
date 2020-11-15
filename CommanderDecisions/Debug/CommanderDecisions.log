@@ -1,0 +1,3 @@
+﻿  CommanderDecisions.cpp
+C:\Users\hamhu\source\repos\CommanderDecisions\CommanderDecisions\CommanderDecisions.cpp(11,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CommanderDecisions.vcxproj -> C:\Users\hamhu\source\repos\CommanderDecisions\Debug\CommanderDecisions.exe
